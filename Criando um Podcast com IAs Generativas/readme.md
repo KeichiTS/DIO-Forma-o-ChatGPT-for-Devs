@@ -1,4 +1,4 @@
-# Podcast - The Dev of Us - Histórias, dicas e bugs de quem vive o game`
+# Podcast - The Dev of Us - Histórias, dicas e bugs de quem vive o game
 
 ![Imagem Capa do Podcast](https://github.com/KeichiTS/DIO-Forma-o-ChatGPT-for-Devs/blob/main/Criando%20um%20Podcast%20com%20IAs%20Generativas/Imagem_Capa_Podcast.png?raw=true)
 
@@ -96,3 +96,7 @@ ___
 
 ### `Finalização`
 `_"E é isso, galera! Se você curtiu, compartilha com aquele amigo que também tá começando no gamedev. Lembrando: todo jogo grande começou com um **"Hello, World!"** cheio de bugs. O importante é não desistir! Pra ficar por dentro dos próximos episódios, segue a gente nas redes. Valeu pelo tempo, e até a próxima!_*`
+
+___
+# Audio gerado no ElevenLabs + Capcut
+[Clique aqui para ouvir o podcast](https://github.com/KeichiTS/DIO-Forma-o-ChatGPT-for-Devs/blob/main/Criando%20um%20Podcast%20com%20IAs%20Generativas/Audio_Podcast.MP3?raw=true)
