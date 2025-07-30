@@ -1,6 +1,6 @@
 # Podcast - The Dev of Us - Histórias, dicas e bugs de quem vive o game`
 
-[capa](Imagem_Capa_Podcast.png)
+![Imagem Capa do Podcast](https://github.com/KeichiTS/DIO-Forma-o-ChatGPT-for-Devs/blob/main/Criando%20um%20Podcast%20com%20IAs%20Generativas/Imagem_Capa_Podcast.png?raw=true)
 
 # Prompt - Nome do Podcast
 
